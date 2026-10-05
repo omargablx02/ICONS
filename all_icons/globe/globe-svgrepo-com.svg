@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Portfolio / website link. Filled globe so its visual weight matches the
+     other solid brand marks used in README contact rows. Colour is the
+     portfolio accent (#0ea5e9) so the README and the live site read as one
+     piece of work. -->
+<svg width="76" height="76" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <g id="_16" data-name="16">
+    <path id="Path_204" data-name="Path 204" d="M12,2a10,10,0,1,0,0,20A10,10,0,0,0,12,2Zm7.93,9h-3.02a15.7,15.7,0,0,0-1.2-5.4A8.03,8.03,0,0,1,19.93,11ZM12,4.04c.86,1.2,1.63,3.09,1.86,5.96h-3.72C10.37,7.13,11.14,5.24,12,4.04ZM4.07,13h3.02a15.71,15.71,0,0,0,1.2,5.4A8.03,8.03,0,0,1,4.07,13Zm3.02-2H4.07a8.03,8.03,0,0,1,4.22-5.4,15.7,15.7,0,0,0-1.2,5.4Zm4.91,8.96c-.86-1.2-1.63-3.09-1.86-5.96h3.72C13.63,16.87,12.86,18.76,12,20.96ZM14.34,13H9.66a24.65,24.65,0,0,1,0-2c0-.28.05-1.72.14-4h4.68c.09,1.28.14,2.6.14,4s-.05,2.72-.14,2Zm.27,5.4A15.71,15.71,0,0,0,15.81,13h3.02a8.03,8.03,0,0,1-4.22,5.4Zm1.75-7.4a15.7,15.7,0,0,0-1.2-5.4,8.03,8.03,0,0,1,4.22,5.4Z" fill="#0ea5e9"/>
+  </g>
+</svg>
